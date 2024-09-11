@@ -10,7 +10,8 @@
     "features": {
         "bootmagic": true,
         "extrakey": true,
-        "mousekey": true
+        "mousekey": true,
+        "nkro": true
     },
     "split": {
         "enabled": true,
